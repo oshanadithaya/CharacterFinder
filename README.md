@@ -1,2 +1,2 @@
 # CharacterFinder
-From this program we can find number of characters in any large texts.
+From this program we can find the number of characters on any large texts.
